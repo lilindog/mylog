@@ -1,0 +1,30 @@
+{
+  "name": "mylog",
+  "version": "0.0.1",
+  "description": "node 日志模块",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilindog/mylog.git"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": "lilindog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilindog/mylog/issues"
+  },
+  "homepage": "https://github.com/lilindog/mylog#readme"
+}

@@ -1,0 +1,4 @@
+#忽略测试生成的日志文件
+*.log
+#忽略node模块目录
+node_modules
